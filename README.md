@@ -7,7 +7,7 @@ A continuacion en este link https://youtu.be/RgP1njsQO0g estan todas las indicac
 
 # Clonado e instalacion de dependencias 
 
-A continuacion ejecutamos: git clone https://github.com/EstebanEzequiel/backend-nodejs-challenge.git , desde el mismo git bash nos dirigimos a la carpeta del proyecto descargado.
+A continuacion ejecutamos: git clone https://github.com/EstebanEzequiel/backend-nodejs-challenge.git y desde el mismo git bash nos dirigimos a la carpeta del proyecto descargado.
 En dicho directorio ejecutamos npm i para descargar he instalar todas las dependencias registradas en el package.json.
 
 # Crear base de datos
