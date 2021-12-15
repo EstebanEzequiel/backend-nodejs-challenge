@@ -1,5 +1,4 @@
+requests.rest
+
 # dependencies
 /node_modules
-
-# files
-/requests.rest
