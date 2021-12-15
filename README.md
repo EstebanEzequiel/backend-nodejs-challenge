@@ -19,4 +19,6 @@ Nuestro back se encargara de crear las tablas necesarias automaticamente para la
 
 # Ejecutamos aplicacion
 
-Ya concluyendo ejecutamos: node index y comenzara a correr nuestro challenge backend, para luego visualizar el despliegue de las listas de tareas segun sus estados en Github-Pages: https://estebanezequiel.github.io/challenge/
+Ya concluyendo ejecutamos: node index y comenzara a correr nuestro challenge backend, para luego visualizar el despliegue de una vista desarrolla en Angular 12 donde se muestran las listas de tareas segun sus estados (TO-DO/IN-PROGRESS/DONE/DELETE).
+
+Github-Pages: https://estebanezequiel.github.io/challenge/
