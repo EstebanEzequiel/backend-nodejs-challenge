@@ -1,0 +1,10 @@
+{
+    "puerto": 9003,
+    "database": {
+        "user": "postgres",
+        "password": "1234",
+        "database": "wuala",
+        "host": "localhost",
+        "port": 5432
+    }
+}

@@ -1,0 +1,27 @@
+GET http://localhost:9003/get-tareas
+
+# PUT http://localhost:9003/put-tareas
+# content-type: application/json
+
+# {
+#     "id":26,
+#     "producto": "jean levis super skinny",
+#     "tipo": "descuentos de precio",
+#     "titulo": "año nuevo",
+#     "fecha": "26/12/2021",
+#     "estado": "",
+#     "activo": true
+#   }
+
+
+# POST http://localhost:9003/post-tareas
+# content-type: application/json
+
+# {
+#     "producto": "zapatilla topper clasica",
+#     "tipo": "descuentos de precio",
+#     "titulo": "navidad",
+#     "fecha": "28/12/2021",
+#     "estado": "",
+#     "activo": true
+# }
