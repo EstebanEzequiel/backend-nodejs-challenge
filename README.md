@@ -1,4 +1,4 @@
-Backend de challenge en Nodejs
+# Challenge Backend en NodeJS
 
 # Instalaciones previas:
 
@@ -19,7 +19,4 @@ Nuestro back se encargara de crear las tablas necesarias automaticamente para la
 
 # Ejecutamos aplicacion
 
-Finalmente ejecutamos: node index y comenzara a correr nuestro challenge back.
-
-
-
+Ya concluyendo ejecutamos: node index y comenzara a correr nuestro challenge backend, para luego visualizar el despliegue de las listas de tareas segun sus estados en Github-Pages: https://estebanezequiel.github.io/challenge/
