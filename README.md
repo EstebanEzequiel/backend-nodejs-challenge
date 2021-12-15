@@ -17,7 +17,7 @@ Servers >> PostgreSQL 13 >> Databases(1) >> Click der >> Create >> Database.
 
 Nuestro back se encargara de crear las tablas necesarias automaticamente para la ejecucion de la aplicacion. La tabla en cuestion recibe el nombre de 'tareas' incluyendo registros insertados para comenzar con la prueba tecnica agilmente.
 
-# Ejecutamos aplicacion
+# Ejecutamos aplicaciones
 
 Ya concluyendo ejecutamos: node index y comenzara a correr nuestro challenge backend, para luego visualizar el despliegue de una vista desarrollada en Angular 12 donde se muestran las listas de tareas segun sus estados 
 (TO-DO/IN-PROGRESS/DONE/DELETE).
